@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing.deps.json
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing.dll
+/home/sujeendra/Desktop/Visual_studio/TextEditing/bin/Debug/netcoreapp3.1/TextEditing.pdb
+/home/sujeendra/Desktop/Visual_studio/TextEditing/obj/Debug/netcoreapp3.1/TextEditing.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/TextEditing/obj/Debug/netcoreapp3.1/TextEditing.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/TextEditing/obj/Debug/netcoreapp3.1/TextEditing.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/TextEditing/obj/Debug/netcoreapp3.1/TextEditing.dll
+/home/sujeendra/Desktop/Visual_studio/TextEditing/obj/Debug/netcoreapp3.1/TextEditing.pdb

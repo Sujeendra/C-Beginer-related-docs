@@ -1,0 +1,3 @@
+/home/sujeendra/Desktop/Aurigo/C-sharp-beginer/codes/obj/Debug/netcoreapp3.1/codes.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Aurigo/C-sharp-beginer/codes/obj/Debug/netcoreapp3.1/codes.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Aurigo/C-sharp-beginer/codes/obj/Debug/netcoreapp3.1/codes.AssemblyInfo.cs

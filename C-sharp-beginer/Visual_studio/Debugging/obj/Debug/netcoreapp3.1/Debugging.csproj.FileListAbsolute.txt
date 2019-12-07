@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging.deps.json
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging.dll
+/home/sujeendra/Desktop/Visual_studio/Debugging/bin/Debug/netcoreapp3.1/Debugging.pdb
+/home/sujeendra/Desktop/Visual_studio/Debugging/obj/Debug/netcoreapp3.1/Debugging.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/Debugging/obj/Debug/netcoreapp3.1/Debugging.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/Debugging/obj/Debug/netcoreapp3.1/Debugging.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/Debugging/obj/Debug/netcoreapp3.1/Debugging.dll
+/home/sujeendra/Desktop/Visual_studio/Debugging/obj/Debug/netcoreapp3.1/Debugging.pdb

@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan.deps.json
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan.dll
+/home/sujeendra/Desktop/Visual_studio/Timespan/bin/Debug/netcoreapp3.1/Timespan.pdb
+/home/sujeendra/Desktop/Visual_studio/Timespan/obj/Debug/netcoreapp3.1/Timespan.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/Timespan/obj/Debug/netcoreapp3.1/Timespan.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/Timespan/obj/Debug/netcoreapp3.1/Timespan.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/Timespan/obj/Debug/netcoreapp3.1/Timespan.dll
+/home/sujeendra/Desktop/Visual_studio/Timespan/obj/Debug/netcoreapp3.1/Timespan.pdb

@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext.deps.json
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext.dll
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/bin/Debug/netcoreapp3.1/summarizingThetext.pdb
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/obj/Debug/netcoreapp3.1/summarizingThetext.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/obj/Debug/netcoreapp3.1/summarizingThetext.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/obj/Debug/netcoreapp3.1/summarizingThetext.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/obj/Debug/netcoreapp3.1/summarizingThetext.dll
+/home/sujeendra/Desktop/Visual_studio/summarizingThetext/obj/Debug/netcoreapp3.1/summarizingThetext.pdb

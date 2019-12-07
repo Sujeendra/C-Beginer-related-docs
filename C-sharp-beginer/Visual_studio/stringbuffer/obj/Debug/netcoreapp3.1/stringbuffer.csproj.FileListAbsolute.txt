@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer.deps.json
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer.dll
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/bin/Debug/netcoreapp3.1/stringbuffer.pdb
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/obj/Debug/netcoreapp3.1/stringbuffer.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/obj/Debug/netcoreapp3.1/stringbuffer.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/obj/Debug/netcoreapp3.1/stringbuffer.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/obj/Debug/netcoreapp3.1/stringbuffer.dll
+/home/sujeendra/Desktop/Visual_studio/stringbuffer/obj/Debug/netcoreapp3.1/stringbuffer.pdb

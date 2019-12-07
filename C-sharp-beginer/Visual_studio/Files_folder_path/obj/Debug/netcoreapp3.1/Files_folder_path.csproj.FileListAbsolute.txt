@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path.deps.json
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path.dll
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/bin/Debug/netcoreapp3.1/Files_folder_path.pdb
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/obj/Debug/netcoreapp3.1/Files_folder_path.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/obj/Debug/netcoreapp3.1/Files_folder_path.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/obj/Debug/netcoreapp3.1/Files_folder_path.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/obj/Debug/netcoreapp3.1/Files_folder_path.dll
+/home/sujeendra/Desktop/Visual_studio/Files_folder_path/obj/Debug/netcoreapp3.1/Files_folder_path.pdb

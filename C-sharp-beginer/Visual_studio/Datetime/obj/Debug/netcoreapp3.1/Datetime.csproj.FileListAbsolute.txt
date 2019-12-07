@@ -1,0 +1,11 @@
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime.deps.json
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime.runtimeconfig.json
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime.runtimeconfig.dev.json
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime.dll
+/home/sujeendra/Desktop/Visual_studio/Datetime/bin/Debug/netcoreapp3.1/Datetime.pdb
+/home/sujeendra/Desktop/Visual_studio/Datetime/obj/Debug/netcoreapp3.1/Datetime.csprojAssemblyReference.cache
+/home/sujeendra/Desktop/Visual_studio/Datetime/obj/Debug/netcoreapp3.1/Datetime.AssemblyInfoInputs.cache
+/home/sujeendra/Desktop/Visual_studio/Datetime/obj/Debug/netcoreapp3.1/Datetime.AssemblyInfo.cs
+/home/sujeendra/Desktop/Visual_studio/Datetime/obj/Debug/netcoreapp3.1/Datetime.dll
+/home/sujeendra/Desktop/Visual_studio/Datetime/obj/Debug/netcoreapp3.1/Datetime.pdb
